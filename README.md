@@ -1,8 +1,11 @@
+![NamPost](https://www.nampost.com.na/images/logo.png)
+
 # React Vite Boilerplate
 
 A template/boilerplate for rapid application development @NamPost. 
 
 * `Tailwind CSS`
+* `Headless UI`
 * `React-Query`
 * `Tanstack Router`
 * `Jotai State`
@@ -11,8 +14,8 @@ A template/boilerplate for rapid application development @NamPost.
 
 Clone the repo.
 
-    `npm i`
-    `npm run dev`
+    npm i
+    npm run dev
 
 ### TO DO:
 

@@ -10,3 +10,11 @@ A template/boilerplate for rapid application development @NamPost.
 ### Getting Started
 
 Clone the repo.
+
+    `npm i`
+    `npm run dev`
+
+### TO DO:
+
+* @tanstack/router has some issues with nested routes. To remove and revert back to React Router 5/6.
+* Add Auth Layer
